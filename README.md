@@ -15,7 +15,7 @@ Web UI for Generic Reporting APP
 - services
   contains the logic for the API integrations
 - utils
-  contains the configurations in the app
+  contains the configurations for the app
 
 # how to run the app in the develoment mode
 
